@@ -20,7 +20,7 @@ This project provides tools and scripts for data analysis and visualization.
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/dataAnalisANdVis.git
+    git clone git@github.com:SagarDangal/mental-health-data-visualization.git
     ```
 2. Install dependencies:
     ```bash
